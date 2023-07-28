@@ -1,0 +1,26 @@
+{
+    "name": "blog_nodejs",
+    "version": "1.0.0",
+    "description": "A blog NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/namfanmu/blog_nodejs.git"
+    },
+    "keywords": [
+        "nodejs"
+    ],
+    "author": "NamNB",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/namfanmu/blog_nodejs/issues"
+    },
+    "homepage": "https://github.com/namfanmu/blog_nodejs#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
